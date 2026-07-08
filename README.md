@@ -1,5 +1,6 @@
 **Presentation Link:** [Click here to view the presentation](https://docs.google.com/presentation/d/1pcLLJMQDyhwGaVlFVqlhUxkyR3xDJLORLJT1sB988XE/edit?slide=id.p1#slide=id.p1)
 **YouTube Video Link:** [Click here to view the demo video](https://youtu.be/4wdmhvMtYks?si=xozCHcZSXjx0VmTX)
+**App link:** [Click here to view the demo app](https://smartfraudengine.streamlit.app/)
 
 # 🛡️ Smart Fraud Risk Detection & Auditing Center
 
